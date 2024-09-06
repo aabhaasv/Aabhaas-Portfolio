@@ -76,10 +76,8 @@ footer {
     background-color: #1a1a1a;
     color: #fff;
     text-align: center;
-    padding: 10px; /* Reduce padding from 20px to 10px */
+    padding: 20px;
     position: fixed;
     width: 100%;
     bottom: 0;
-    height: 50px; /* Set a fixed height to control the size */
-    line-height: 50px; /* Vertically center the text within the height */
 }
