@@ -76,8 +76,10 @@ footer {
     background-color: #1a1a1a;
     color: #fff;
     text-align: center;
-    padding: 5px; /* Adjusted padding to reduce size */
-    position: relative; /* Changed from fixed */
-    bottom: 0;
+    padding: 5px 0; /* Minimal padding with top and bottom space */
+    position: relative; /* Changed to relative so it's part of the normal flow */
     width: 100%;
+    font-size: 0.9em; /* Slightly smaller text to reduce height */
+    line-height: 1.5em; /* Adjust line-height for better vertical alignment */
 }
+
