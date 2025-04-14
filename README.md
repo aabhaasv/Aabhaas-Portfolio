@@ -31,7 +31,7 @@ This portfolio website is built using HTML and CSS, showcasing some of the most 
 - Tools: Git, Linux, VSCode
 
 ## How to View
-You can view my portfolio live [here](https://aabhaasv.github.io/Aabhaas-Portfolio/) (replace with your actual GitHub Pages link once it's working).
+You can view my portfolio live [here](https://aabhaasv.github.io/Aabhaas-Portfolio/).
 
 ## Contact
 - **Email**: heyaabhaas@gmail.com
